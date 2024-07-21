@@ -1,7 +1,6 @@
 /*
 SQL Portfolio Project
 prepared by Mohamed Ibrahim
-July 2024
 
 There are 2 parts:
 - Data Exploration
